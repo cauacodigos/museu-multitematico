@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1699893748 source:c:\users\serom\onedrive\documentos\c faculdade\teste\pim_definitivo\pim3\exposicao.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<ctype.h>
+	"ticket.h"
+
+1699893346 source:c:\users\serom\onedrive\documentos\c faculdade\teste\pim_definitivo\pim3\ticket.c
+	<stdio.h>
+	<windows.h>
+
+1699893668 source:c:\users\serom\onedrive\documentos\c faculdade\teste\pim_definitivo\pim3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"ticket.h"
+	"exposicao.h"
+
+1698366534 c:\users\serom\onedrive\documentos\c faculdade\teste\pim_definitivo\pim3\ticket.h
+
+1699893651 c:\users\serom\onedrive\documentos\c faculdade\teste\pim_definitivo\pim3\exposicao.h
+
